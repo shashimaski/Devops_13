@@ -1,0 +1,7 @@
+HHHH
+Hi shashi
+ghghghg
+<<<<<<< HEAD
+Hi Vishal
+=======
+>>>>>>> parent of 00d60e6... edited file3.txt
